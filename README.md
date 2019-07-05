@@ -8,3 +8,6 @@ To-do
 =====
 1. ~~Set up git repo~~
 2. ~~get api credentials~~
+3. Create a tweet listener
+4. Create response list
+5. Figure out how to pull gifs
