@@ -6,4 +6,5 @@ pyvenv.cfg
 share
 notes.txt
 __pycache__
+settings.py
 etc
