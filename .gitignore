@@ -3,7 +3,6 @@ include
 lib
 lib64
 pyvenv.cfg
-settings.py
 share
 notes.txt
 __pycache__
