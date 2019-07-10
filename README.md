@@ -11,3 +11,6 @@ To-do
 3. Create a tweet listener
 4. Create response list
 5. Figure out how to pull gifs
+6. improve "random" quote pull, seems to be puling the same ones
+7. heroku deployment, apsheduler not behaving as I want. 
+
